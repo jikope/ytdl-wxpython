@@ -1,0 +1,9 @@
+* ytdl-wxpython
+ytdl-wxpython is an unofficial graphical user interface application for youtube-dl. This application is made in python using wxPython framework.
+[[./image.png]]
+** Requirements
+- Python 3.6
+- [[https://github.com/ytdl-org/youtube-dl][youtube-dl]]
+- [[https://wxpython.org/download.php][wxPython]]
+** Running 
+Just execute the =main.py= file
